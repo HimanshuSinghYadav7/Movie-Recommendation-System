@@ -58,7 +58,7 @@ The project uses the MovieLens dataset containing:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/iamHimanshu-07/movie-recommendation-system.git
+git clone https://github.com/HimanshuSinghYadav7/movie-recommendation-system.git
 
 cd movie-recommendation-system
 ```
